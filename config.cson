@@ -1,0 +1,15 @@
+"*":
+  core:
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "d367f3dd-1516-48b6-837e-ac7fd150ed17"
+  "gist-it":
+    openAfterCreate: true
+    userToken: "b21c5910141230d447744fbdc93509f1be40ad65"
+  "linter-ui-default": {}
+  rspec: {}
